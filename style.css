@@ -1,0 +1,25 @@
+body {
+    padding: 10px;
+    margin: 10px;
+}
+
+#container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 720px;      
+    height: 720px;    
+    border: 2px solid #444;
+}
+
+.newGrid {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid #aaa;
+}
+
+button {
+    margin: 0px 0px 10px 0px;
+}
